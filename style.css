@@ -1,5 +1,5 @@
 body {
-background-image: url("images3/GoraBeluha.jpg");
+background-color: #4f4f95;
 }
 .container{
 
@@ -7,7 +7,7 @@ background-image: url("images3/GoraBeluha.jpg");
     padding:20px;
     margin-right: 228px;
    position: absolute;
-    left: 30px;
+      left: 455px;
 }
 
 *, *:before, *:after {
